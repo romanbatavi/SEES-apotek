@@ -22,17 +22,17 @@
   	<div class="container">
   		<div class="row">
   			<div class="welcome col-lg-8">
-  				SELAMAT DATANG DI APLIKASI SALES FORECASTING MILIK APOTEK MARGO SARAS
+          SELAMAT DATANG DI APLIKASI SALES FORECASTING MILIK APOTEK MARGO SARAS
   			</div>
 	    	<div class="form-login col-lg-4">
 	    		<form>
-	    		  <h6>Mohon login terlebih dahulu</h6>
+	    		  <h6>Mohon Login Terlebih Dahulu</h6>
   				  <div class="form-group">
-  				    <label for="username">username</label>
+  				    <label for="username">Username</label>
   				    <input type="email" class="form-control" id="username" placeholder="username" autofocus="">
   				  </div>
   				  <div class="form-group">
-  				    <label for="password">password</label>
+  				    <label for="password">Password</label>
   				    <input type="password" class="form-control" id="password" placeholder="password">
   				  </div>
   				  <!-- <div class="form-group form-check">
